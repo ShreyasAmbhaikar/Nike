@@ -1,3 +1,4 @@
+import { Nav } from "./components"; // import Nav from "./components/Nav";
 import {
   CustomerReviews,
   Footer,
@@ -8,7 +9,6 @@ import {
   Subscribe,
   SuperQuality,
 } from "./sections";
-import Nav from "./components/Nav";
 
 const App = () => (
   <main className="relative">
